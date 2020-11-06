@@ -1,0 +1,75 @@
+body {
+    background-color: whitesmoke;
+    margin: 0; 
+}
+header {
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+li {
+    
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+   
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+p {
+    font-family: 'Times New Roman', Times, serif;
+}
+nav {
+    
+    position: fixed;
+    height: 100%;
+    background-color: #a6f1a6;
+    border-right: solid black 3px;
+   
+}
+
+.main-section {
+    
+    padding-top: 4rem;
+    padding-left: 19.5rem;
+}
+
+.nav-li {
+    border-top:solid black 1px;
+    margin-left: -2.5rem;
+    padding-left: 1.5rem;
+}
+
+.code-text {
+    padding: 1rem;
+    background-color: #ffe9ec;
+    font-weight: 100;
+    margin-left: 1rem;
+    
+}
+#headline {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem; 
+    font-size: 1.5rem;
+}
+#navlist {
+    list-style: none;
+    
+}
+
+#intro {
+    border: none;
+}
+
+#bottom {
+    margin-bottom: 5rem;
+}
+
+a:hover {
+    font-size: 1.1rem ;
+}
